@@ -1,0 +1,10 @@
+C:\Users\Nancy\Desktop\Visual Studio\TrackThread\TrackThread\bin\Debug\TrackThread.exe.config
+C:\Users\Nancy\Desktop\Visual Studio\TrackThread\TrackThread\bin\Debug\TrackThread.exe
+C:\Users\Nancy\Desktop\Visual Studio\TrackThread\TrackThread\bin\Debug\TrackThread.pdb
+C:\Users\Nancy\Desktop\Visual Studio\TrackThread\TrackThread\obj\Debug\TrackThread.csproj.AssemblyReference.cache
+C:\Users\Nancy\Desktop\Visual Studio\TrackThread\TrackThread\obj\Debug\TrackThread.frmTrackThread.resources
+C:\Users\Nancy\Desktop\Visual Studio\TrackThread\TrackThread\obj\Debug\TrackThread.Properties.Resources.resources
+C:\Users\Nancy\Desktop\Visual Studio\TrackThread\TrackThread\obj\Debug\TrackThread.csproj.GenerateResource.cache
+C:\Users\Nancy\Desktop\Visual Studio\TrackThread\TrackThread\obj\Debug\TrackThread.csproj.CoreCompileInputs.cache
+C:\Users\Nancy\Desktop\Visual Studio\TrackThread\TrackThread\obj\Debug\TrackThread.exe
+C:\Users\Nancy\Desktop\Visual Studio\TrackThread\TrackThread\obj\Debug\TrackThread.pdb
